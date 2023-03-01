@@ -1,11 +1,14 @@
 # Sorting-ALgorithms
 Handling large datasets using different sorting algorithms in python
 
+
+
+# Run the Mystery Sorting file
+This file creates csv files that have been sorted using merge sort algorithm
+and are saved in the Individual and Final folders
 ```
 cd Mystery_Sorting
 ```
-
-# Run the Mystery Sorting file
 ```
 python mystery_sorting.py
 ```
